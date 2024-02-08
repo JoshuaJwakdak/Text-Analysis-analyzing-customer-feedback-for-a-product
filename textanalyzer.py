@@ -9,7 +9,6 @@ Task 3. Frequency of a specific word: In addition to analyzing the overall word 
 By performing these tasks on the customer feedback dataset, you can gain valuable insights into customer sentiment
 
 
-
 Step-1 Define a string.
 givenstring="Lorem ipsum dolor! diam amet, consetetur Lorem magna. sed diam nonumy eirmod tempor. diam et labore? et diam magna. et diam amet."
 
@@ -17,7 +16,6 @@ Step-2 Define the class and its attributes:
 
     Create a class named TextAnalyzer.
     Define the constructor __init__ method that takes a text argument.
-
 
 
 # Please do not run this code cell as it is incomplete and will produce an error.
@@ -161,4 +159,3 @@ frequency = analyzed.freqOf(word)
 print("The word",word,"appears",frequency,"times.")
 
 We have successfully calculated the frequency of all specified words.
-
